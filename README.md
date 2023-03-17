@@ -1,1 +1,2 @@
-# Ecommerce
+# E-Commerce
+Having an online storefront is one of the most straightforward ways to conduct ecommerce. The merchant creates a website and uses it to sell products and services using shopping carts and [ecommerce](http://ecommappnow.com/) solutions. The “right” solution will depend on the merchant and their products. This section lists some of the top ecommerce sites on the web, and sheds light on what makes them successful. Amazon is not just one of the biggest ecommerce platforms, it’s also the most valuable company in the world surpassing even Microsoft in market value.
